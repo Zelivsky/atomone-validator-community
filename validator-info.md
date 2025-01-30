@@ -7,7 +7,7 @@ In order to verify the team members of your validator, please send a 0.01 ATONE 
 |-----------------------------------------------------------------|-------------------|---|---|---|---|---|---|
 |---|---|---|---|---|---|---|---|
 | Validator Name  | Validator Website | Validator Twitter Page | Region | GitHub Handles | E-mails | Discord Handles | Tx Hash |
-|   |   |   |   |   |   |   |   |
+|  Apollo | - | https://x.com/petr_zelivsky   | Czech Republic | https://github.com/Zelivsky  | apollo.validator@gmail.com  | zelivsky  | C6FF3A821152578E44CAEE5D5F1ECE0949C0932B37884B7B642D5D4C1DB331AC  |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
 |   |   |   |   |   |   |   |   |
